@@ -15,12 +15,13 @@ body {
   background-color: #1c1c1c;
   color: #4f3a28;
   line-height: 1.7;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 main {
   padding:  10px 25px 20px;
   background-color: #f8f2e4;
-
 }
 
 header,
@@ -33,7 +34,7 @@ footer {
 
 header h1 {
   font-size: 40px;
-  font-weight: bold;
+  font-weight: 800;
   font-family: 'Serif';
   font-family: ''
 }
@@ -66,16 +67,16 @@ h4 {
 
 h2 {
   border-bottom: 2px solid #8b735b;
-  font-weight: bold; 
+  font-weight: 800; 
 }
 
 h3 {
   border-bottom: 1px solid #8b735b;
-  font-weight: semi-bold;
+  font-weight: 600
 }
 
 h4 {
-  font-weight: regular;
+  font-weight: 400;
 }
 
 p {
